@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.graalvm.visualvm.api.caching/0">
+    <module_version install_time="1574872761915" last="true" origin="installer" specification_version="0.1">
+        <file crc="620952144" name="config/Modules/org-graalvm-visualvm-api-caching.xml"/>
+        <file crc="2263660201" name="modules/org-graalvm-visualvm-api-caching.jar"/>
+    </module_version>
+</module>

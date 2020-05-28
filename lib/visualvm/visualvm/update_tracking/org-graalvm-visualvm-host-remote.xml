@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.graalvm.visualvm.host.remote/0">
+    <module_version install_time="1574872798510" last="true" origin="installer" specification_version="1.0">
+        <file crc="2899292486" name="config/Modules/org-graalvm-visualvm-host-remote.xml"/>
+        <file crc="1799164001" name="modules/org-graalvm-visualvm-host-remote.jar"/>
+    </module_version>
+</module>

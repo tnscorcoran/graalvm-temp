@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.graalvm.visualvm.jvmstat/0">
+    <module_version install_time="1574872797074" last="true" origin="installer" specification_version="1.0">
+        <file crc="778717492" name="config/Modules/org-graalvm-visualvm-jvmstat.xml"/>
+        <file crc="3945529652" name="modules/org-graalvm-visualvm-jvmstat.jar"/>
+    </module_version>
+</module>

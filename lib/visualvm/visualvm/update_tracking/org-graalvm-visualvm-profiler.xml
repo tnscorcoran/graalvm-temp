@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.graalvm.visualvm.profiler/0">
+    <module_version install_time="1574872814855" last="true" origin="installer" specification_version="1.6">
+        <file crc="1270792733" name="config/Modules/org-graalvm-visualvm-profiler.xml"/>
+        <file crc="4210460654" name="modules/org-graalvm-visualvm-profiler.jar"/>
+    </module_version>
+</module>
